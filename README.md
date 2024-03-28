@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, AI Edge, Image Processing on edge device, Signal Processing on edge device, AI Image Processing algorithm, Nvidia Jetson, Xilinx**
 
-- 📫 How to reach me **thekouroshkarimi008@gmail.com**
+- 📫 How to reach me **thekouroshkarimi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
