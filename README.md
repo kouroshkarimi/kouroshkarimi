@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kourosh</h1>
 <h3 align="center">A passionate Hardware AI Product Engineer and Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kouroshkarimi&label=Profile%20views&color=0eb474&style=plastic" alt="kouroshkarimi" /> </p>
-
 - 🔭 I’m currently working on **Automation By Edge Device**
 
 - 🌱 I’m currently learning **Project Management and Product Development**
@@ -11,7 +9,7 @@
 
 - 💬 Ask me about **Python, AI Edge, Image Processing on edge device, Signal Processing on edge device, AI Image Processing algorithm**
 
-- 📫 How to reach me **thekouroshkarimi@gmail.com**
+- 📫 How to reach me **thekouroshkarimi008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
