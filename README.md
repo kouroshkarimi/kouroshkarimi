@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Automation and AI Hardware Acceleration**
 
-- 💬 Ask me about **Python, AI Edge, Image Processing on edge device, Signal Processing on edge device, AI Image Processing algorithm, Nvidia Jetson, Xilinx**
+- 💬 Ask me about **Python, AI Edge, Image Processing on edge device, Signal Processing on edge device, AI Image Processing algorithm, Nvidia Jetson, Robotic, Vision Language Action models**
 
 - 📫 How to reach me **thekouroshkarimi@gmail.com**
 
