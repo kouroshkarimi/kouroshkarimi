@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Kourosh</h1>
 <h3 align="center">A passionate Machine Learning Engineer </h3>
-
+---
 - I’m currently working on **Machine Learning in Advanced Driver Assistance System**
 
 - I’m currently learning **Lean Machine Learning Algorithms**
