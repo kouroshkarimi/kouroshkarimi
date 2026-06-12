@@ -21,7 +21,7 @@ Python, Git, CI/CD, microservices, NATS, ROS2, design patterns, unit testing, Qt
 NVIDIA Jetson (Orin, Nano), NPUs, TPUs, Yocto, cameras, UARTs
 
 **Soft Skills**  
-Teamwork, Problem-solving, Time management, Flexibility, Task Owning, Presentation skills, Continuous learning, Action bias
+Teamwork, Problem-solving, Time management, Flexibility, Task Ownership, Presentation skills, Continuous learning, Action bias
 
 ---
 
