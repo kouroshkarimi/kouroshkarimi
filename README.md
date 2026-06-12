@@ -20,6 +20,9 @@ Python, Git, CI/CD, microservices, NATS, ROS2, design patterns, unit testing, Qt
 **Hardware & Edge**  
 NVIDIA Jetson (Orin, Nano), NPUs, TPUs, Yocto, cameras, UARTs
 
+**Soft Skills**  
+Teamwork, Problem-solving, Time management, Flexibility, Task Owning, Presentation skills, Continuous learning, Action bias
+
 ---
 
 How to reach me **thekouroshkarimi@gmail.com**
