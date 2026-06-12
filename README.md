@@ -9,7 +9,7 @@
 
 - I’m looking to collaborate on **Machine Learning, Edge AI, Data Science**
 
-## 🔧 Things I reach for often
+## Things I reach for often
 
 **ML & Data**  
 PyTorch, TensorFlow, Transformers, OpenCV, Scikit-learn, NumPy, Pandas, Hugging Face, ONNX, TensorRT, CUDA, Ollama, TFLite, DVC
@@ -22,7 +22,7 @@ NVIDIA Jetson (Orin, Nano), NPUs, TPUs, Yocto, cameras, UARTs
 
 ---
 
-📫 How to reach me **thekouroshkarimi@gmail.com**
+How to reach me **thekouroshkarimi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
