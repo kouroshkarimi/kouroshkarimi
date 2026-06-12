@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kourosh</h1>
 <h3 align="center">A passionate Hardware AI Engineer and Developer</h3>
 
-- 🔭 I’m currently working on **Automation By Edge Device**
+- I’m currently working on **Perception**
 
-- 🌱 I’m currently learning **Lean Machine Learning Algorithms**
+- I’m currently learning **Lean Machine Learning Algorithms**
 
-- 👯 I’m looking to collaborate on **Automation and AI Hardware Acceleration**
+- I’m looking to collaborate on **Automation and AI Hardware Acceleration**
 
 - 💬 Ask me about **Python, Machine Learning, AI Edge, Image Processing on edge device, Signal Processing on edge device, AI Image Processing algorithm, Nvidia Jetson, Robotic, Vision Language Action models**
 
