@@ -10,7 +10,7 @@
 ## 🔧 Things I reach for often
 
 **ML & Data**  
-PyTorch, TensorFlow, Transformers, OpenCV, Scikit-learn, NumPy, Pandas, Hugging Face, ONNX, TensorRT, CUDA, Ollama, TFLite
+PyTorch, TensorFlow, Transformers, OpenCV, Scikit-learn, NumPy, Pandas, Hugging Face, ONNX, TensorRT, CUDA, Ollama, TFLite, DVC
 
 **Software Engineering**  
 Python, Git, CI/CD, microservices, NATS, ROS2, design patterns, unit testing, Qt Designer
