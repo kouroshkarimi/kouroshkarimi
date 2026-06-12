@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kourosh</h1>
-<h3 align="center">A passionate Hardware AI Engineer and Developer</h3>
+<h1 align="center">Hi , I'm Kourosh</h1>
+<h3 align="center">A passionate Machine Learning Engineer </h3>
 
 - I’m currently working on **Machine Learning in Advanced Driver Assistance System**
 
