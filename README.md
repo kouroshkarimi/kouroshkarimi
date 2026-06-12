@@ -5,7 +5,7 @@
 
 - I’m currently learning **Lean Machine Learning Algorithms**
 
-- I’m looking to collaborate on **Automation and AI Hardware Acceleration**
+- I’m looking to collaborate on **Machine Learning, Edge AI, Data Science**
 
 - 💬 Ask me about **Python, Machine Learning, AI Edge, Image Processing on edge device, Signal Processing on edge device, AI Image Processing algorithm, Nvidia Jetson, Robotic, Vision Language Action models**
 
