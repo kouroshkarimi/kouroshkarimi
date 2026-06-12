@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Automation By Edge Device**
 
-- 🌱 I’m currently learning **Project Management and Product Development**
+- 🌱 I’m currently learning **Lean Machine Learning Algorithms**
 
 - 👯 I’m looking to collaborate on **Automation and AI Hardware Acceleration**
 
