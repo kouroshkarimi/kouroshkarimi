@@ -7,7 +7,18 @@
 
 - I’m looking to collaborate on **Machine Learning, Edge AI, Data Science**
 
-- 💬 Ask me about **Python, Machine Learning, AI Edge, Image Processing on edge device, Signal Processing on edge device, AI Image Processing algorithm, Nvidia Jetson, Robotic, Vision Language Action models**
+## 🔧 Things I reach for often
+
+**ML & Data**  
+PyTorch, TensorFlow, Transformers, OpenCV, Scikit-learn, NumPy, Pandas, Hugging Face, ONNX, TensorRT, CUDA, Ollama, TFLite
+
+**Software Engineering**  
+Python, Git, CI/CD, microservices, NATS, ROS2, design patterns, unit testing, Qt Designer
+
+**Hardware & Edge**  
+NVIDIA Jetson (Orin, Nano), NPUs, TPUs, Yocto, cameras, UARTs
+
+---
 
 - 📫 How to reach me **thekouroshkarimi@gmail.com**
 
