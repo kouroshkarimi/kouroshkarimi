@@ -5,7 +5,7 @@
 
 - I’m currently working on **Machine Learning in Advanced Driver Assistance System**
 
-- I’m currently learning **Lean Machine Learning Algorithms**
+- I’m currently learning **Vision Transforms**
 
 - I’m looking to collaborate on **Machine Learning, Edge AI, Data Science**
 
